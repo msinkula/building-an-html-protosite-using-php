@@ -1,0 +1,1 @@
+	<!-- Begin Clear -->	<div class="clear">&nbsp;</div>	<!-- End Clear --></div><!-- End Middle --><!-- Begin Footer --><div id="footer">	<p><small>&copy;<?php print ("" . date ('Y') . ""); ?> Premium Design Works.<br />All rights reserved.</small></p></div><!-- End Footer --></body></html>
